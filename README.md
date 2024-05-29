@@ -1,4 +1,4 @@
-![MasterHead](https://th.bing.com/th/id/R.78d85897bb2836f0e062df933d5ecfe8?rik=eTop7XI%2b6GkihQ&riu=http%3a%2f%2fwww.grupogid.com%2fassets%2fimages%2fBanners%2fSoftware-Development.jpg&ehk=Ta%2fMCaq6Fnh8Ldmozb5OjJ6YCSk29JWg8NibjMPrOXY%3d&risl=&pid=ImgRaw&r=0)
+![MasterHead]([https://th.bing.com/th/id/R.78d85897bb2836f0e062df933d5ecfe8?rik=eTop7XI%2b6GkihQ&riu=http%3a%2f%2fwww.grupogid.com%2fassets%2fimages%2fBanners%2fSoftware-Development.jpg&ehk=Ta%2fMCaq6Fnh8Ldmozb5OjJ6YCSk29JWg8NibjMPrOXY%3d&risl=&pid=ImgRaw&r=0](https://t4.ftcdn.net/jpg/02/76/08/07/360_F_276080724_hltnCyDjcqAyRtLzDYo3T2jXbBtCD7fl.jpg))
 <h1 align="center">Hi 👋, I'm Ruwanthi Lakshika</h1>
 <h3 align="center">Tech enthusiast from Sri Lanka</h3>
 <img align="right" alt="Coding" width="400" src="https://th.bing.com/th/id/R.850477fed08bfe98598082bcd309ce70?rik=9l9aIUrNeKA%2fPw&pid=ImgRaw&r=0">
