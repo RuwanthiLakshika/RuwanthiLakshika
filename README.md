@@ -14,7 +14,7 @@ Full-Stack Engineer | AI Enthusiast | Undergraduate at University of Moratuwa
 
 ## 🚀 About Me
 
-- 🎓 Followed the degree on **BSc (Hons) in Information Technology** at **University of Moratuwa**
+- 🎓 Pursued a **BSc (Hons) in Information Technology** at **University of Moratuwa**
 - 💻 Passionate about **Full-Stack Development, AI, and Research**
 - 🧠 Interested in **Solving real-world problems by building software that is scalable and practical**
 - ✍️ I regularly write technical articles on Medium
