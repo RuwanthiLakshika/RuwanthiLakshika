@@ -52,28 +52,3 @@ Full-Stack Engineer | AI Enthusiast | Undergraduate at University of Moratuwa
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RuwanthiLakshika&theme=tokyonight&hide_border=true" />
 </p>
-
-## 📝 Latest Medium Articles
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
-
-## ✨ Featured Technologies
-
-- Frontend: **React, Next.js, Tailwind CSS**
-- Backend: **.NET, Node.js, Express.js**
-- Databases: **SQL Server, MySQL, MongoDB**
-- DevOps & Cloud: **Docker, Kubernetes, Azure, GCP**
-- AI/ML: **Python, Scikit-Learn, OpenCV**
-- Testing: **Selenium, Cypress**
-
-## 📚 Currently Learning
-
-- Advanced AI Engineering
-- Large Language Models (LLMs)
-- Secure Software Development
-- Cloud-Native Architectures
-
-## 💡 Fun Fact
-
-⚡ I love combining AI with real-world software engineering solutions.
